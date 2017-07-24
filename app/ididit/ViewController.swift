@@ -6,7 +6,7 @@
 //  Copyright © 2017 Raizlabs. All rights reserved.
 //
 
-import UIKit
+import Anchorage
 
 class ViewController: UIViewController {
 
